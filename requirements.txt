@@ -1,0 +1,2 @@
+ puresnmp==1.11.0
+ pysnmp==4.4.12
