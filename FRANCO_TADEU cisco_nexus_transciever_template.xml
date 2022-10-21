@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
-    <version>6.2</version>
+    <version>6.0</version>
     <date>2022-10-21T14:26:17Z</date>
-    <template_groups>
-        <template_group>
-            <uuid>7df96b18c230490a9a0a9e2307226338</uuid>
-            <name>Templates</name>
-        </template_group>
-        <template_group>
-            <uuid>a936e3854d274409b17825cd11b3b934</uuid>
-            <name>Templates/Complementares</name>
-        </template_group>
-    </template_groups>
     <templates>
         <template>
             <uuid>836be03d7e5240ea90e46655fd0e3463</uuid>
@@ -22,7 +12,7 @@
                     <name>Templates</name>
                 </group>
                 <group>
-                    <name>Templates/Complementares</name>
+                    <name>Templates/Network devices</name>
                 </group>
             </groups>
             <discovery_rules>
